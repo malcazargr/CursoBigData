@@ -34,3 +34,16 @@
 -Dia 5/Miguel - Copia de Ejercicios Repaso Python.ipynb (Notebook con ejercicios de repaso de los conceptos básicos de Python)
 
 -Dia 5/Miguel-Copia de M4 - 07 - Numpy 1D.ipynb (Notebook con ejercicios para iniciarse con la libería de Numpy)
+
+/DIA 6/
+-Dia 6/Miguel Copia de M6 - 01 - Funciones.ipynb (Notebook para practicar las funciones en Python)
+-Dia 6/Miguel Copia de M6 - 02 - Clases.ipynb (Notebook para practicar las clases en Python)
+
+/DIA 7/
+-Dia 7/Migue Copia de M6 - 03 - Programación Funcional.ipynb (Notebook para aprender a usar las funciones lambda. map. filter y reduce en Python)
+-Dia 7/Migue Copia de M6 - SPACEX2 - 5 - Interactive Visual Analytics con Folium.ipynb (Notebook para practicar la creacion de mapas con Folium)
+
+/DIA 8/
+-Dia 8/Miguel Copia de M6 - 06 - Primer RDD Teoría.ipynb (Notebook de teoría sobre RDDs)
+-Dia 8/Miguel Copia de M6 - 05 - SparkSession Teoría.ipynb (Notebook de teoria sobre SparkSession)
+-Dia 8/Migue Copia de M6 - 07 - Transformaciones y Acciones sobre RDDs.ipynb (Notebook con ejercicios con RDDs y Programacion Funcional)
